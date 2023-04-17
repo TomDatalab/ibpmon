@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="(local).ibope.datalab"
+  DTS:DTSID="{E3EFBEAE-CEDC-4AD5-BEF9-FDCE3664835C}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=(local);User ID=datalab;Initial Catalog=ibope;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-datalab_ibpmon-{E3EFBEAE-CEDC-4AD5-BEF9-FDCE3664835C}(local).ibope.datalab;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeKVvjW1f90qZoNSd2LxvcwAAAAACAAAAAAAQZgAAAAEAACAAAADdrYsOtUGdsheXiCXWHwHuDc5tkqzgqM+nfkDQh0j5vgAAAAAOgAAAAAIAACAAAADs9cnt/mD5vkROykgq0f/cXnMXtLrkjkXonulo+N9vToAAAABA6H0hWH28PEwlefaos5n5xpC9TvdqIZvdmjV0RcjBlYSQAJyc0ZPz7D5adWtmFmjdpWd/zNvRbahk7zqRqhxVB/R2jXQIxomTVB+VzoAuOKuhKZn0u80BNuYYduAn+AruThF4q5KcnObXacZKjw2xumPrr709cvWysHwn10382kAAAACFW1Nfg3YN5uPj66lo+bs84Bao+VFwu1uEXZc/KkbB5jMa0CpjS869cglXcjTR84kIpMZ3KeFsA55Ox8GuF8Ji</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

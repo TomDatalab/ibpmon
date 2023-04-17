@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ibpmon.SYSDBA"
+  DTS:DTSID="{97F327F6-7DD5-4E77-A07A-A9199B2CB2F7}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=SYSDBA;Dsn=ibpmon;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeKVvjW1f90qZoNSd2LxvcwAAAAACAAAAAAAQZgAAAAEAACAAAAAwaVMoQKcZVWbLx2osFM6krBtEJwsIBwKCRQTEM+a4fAAAAAAOgAAAAAIAACAAAAA6R8aEAHxMvDXXkV2dvYxrcQfw7xjJy/RAyzH7xO23FnAAAABK5VNxdY/5OwXZhIhqqnS03BWCszE68jzJiLvnMcanInBoX4vU6OQyMVE9lhodSXPvuZutA/ZU1+c+VBc1ZQ+jA/WW8QcVyZy2yuRUrquqC5lZ8EiMYNmEQR02XBgN7KXWZGnN8fOjg+6dFawj4d0vQAAAAA3tA7hk/jR2n3kqNHinh8taJdOw8aLdUG5PWXIN70H9xj0xRwu3HoFtGdy8E+no5e4F8pk9oJhxxmcJYEF5osI=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

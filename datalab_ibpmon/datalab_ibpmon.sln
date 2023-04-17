@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "datalab_ibpmon", "datalab_ibpmon.dtproj", "{B66F97E0-084C-4DC6-8BB1-C2F5014AC0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66F97E0-084C-4DC6-8BB1-C2F5014AC0C2}.Development|Default.ActiveCfg = Development
+		{B66F97E0-084C-4DC6-8BB1-C2F5014AC0C2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E772DD3A-D2C2-47D4-9F67-69F47F86BAB2}
+	EndGlobalSection
+EndGlobal
